@@ -5,3 +5,4 @@ lorenzo ferrari
 Alessandro Rizzi
 >>>>>>> e91c05c6f1e81b4446a1cc901673f231de2fc38f
 ok lorenzo
+Simone Tinti
